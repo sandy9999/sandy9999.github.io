@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Research Fellow in the EzPC at Microsoft Research India, advised by [Divya Gupta](https://www.microsoft.com/en-us/research/people/digup/) and [Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) where we work on the applications of secure multi party computation to privacy preserving machine learning and database operations. 
+
+Prior to joining MSR, I spent two years at Microsoft, Bengaluru as a Software Developer in the O365 Connectors and Actionable Messages team, a feature that embeds actions like approvals and notifications like news digests within an Outlook email or Teams channel. I graduated in 2021 with a B.Tech in Computer Science and Engineering.
+
+I was a part of Delta Force, the programming club of NIT Trichy that takes care of all institute and festival development activities. We conducted Pragyan Capture the Flag, where I was responsible for problem setting and platform setup in the Cryptography field.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Secure Multi Party Computation
+- (To be updated :) )
 
-## News
+Broadly, I'm interested in both theoretical and applied cryptography.
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+<!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
