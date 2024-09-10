@@ -1,2 +1,0 @@
----
-BUNDLE_BUILD__BIGDECIMAL: "--with-cflags=-O2"
