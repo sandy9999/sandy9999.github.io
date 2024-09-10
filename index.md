@@ -19,6 +19,6 @@ I was a part of Delta Force, the programming club of NIT Trichy that takes care 
 
 Broadly, I'm interested in both theoretical and applied cryptography.
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
