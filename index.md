@@ -16,7 +16,7 @@ I was a part of Delta Force, the programming club of NIT Trichy that takes care 
 - Zero Knowledge
 - Cryptographic Applications
 
-Broadly, I'm interested in both theoretical and applied cryptography not limited to the above areas.
+Broadly, I'm interested in applied cryptography not limited to the above areas.
 
 {% include_relative _includes/publications.md %}
 
