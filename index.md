@@ -12,11 +12,10 @@ I was a part of Delta Force, the programming club of NIT Trichy that takes care 
 
 ## Research Interests
 
-- Secure Computation
-- Zero Knowledge
-- Cryptographic Applications
-
-Broadly, I'm interested in applied cryptography not limited to the above areas.
+- Applied Cryptography
+- Security
+- Secure Multi-Party Computation
+- Privacy-preserving Systems
 
 {% include_relative _includes/publications.md %}
 
